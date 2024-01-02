@@ -21,7 +21,7 @@ Ensure the latest version of Python is installed, along with the following libra
 1. For text user-interface, `run text_UI.py`. 
 2. For batch user-interface, `run batch_UI.py`.
 
-*Note*: Be sure to save appropriate test file in current directory before running either UI. Edit `sample_text.txt` as deired while using batch user-interface, to store commands appropriately.
+*Note*: Be sure to save appropriate test file in current directory before running either UI. A sample `student-test.csv` file has already been created in current directory. Edit `sample_text.txt` as deired while using batch user-interface, to store commands appropriately.
 
 Access the [Software Manual (Video)](https://drive.google.com/file/d/1im0aAnlmE0xSRL5oeiA6ngMA3OpmAY8-/view?usp=sharing) for comprehensive guidance.  
 Developed by Idara-Abasi Udoh and Roman Britto (2023).
